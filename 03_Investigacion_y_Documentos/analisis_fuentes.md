@@ -5,7 +5,7 @@ Este archivo documenta el procesamiento masivo de información científica y met
 ---
 
 ## 1. Documentos Base (Materia Prima)
-* [James Clear -  Hábitos Atómicos](./textos_origen/habitos_atomicos_resumen.pdf)
+* [James Clear -  Hábitos Atómicos](./HABITOS-ATOMICOS-JAMES-CLEAR.pdf)
 * [Actualizacion Sobre Neuroplasticidad Cerebral](./Dialnet-ActualizacionSobreNeuroplasticidadCerebral-8490695.pdf)
 
 ---
